@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabkumarroy02&label=Profile%20views&color=0e75b6&style=flat" alt="arnabkumarroy02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabkumarroy02" alt="arnabkumarroy02" /></a> </p>
-
 - 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://arnabkumarroy02.github.io/](https://arnabkumarroy02.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://arnabkumarroy02.github.io/)
 
 - 📫 Email **arnabroy770@gmail.com**
 
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabkumarroy02&show_icons=true&locale=en&layout=compact" alt="arnabkumarroy02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnabkumarroy02&show_icons=true&locale=en" alt="arnabkumarroy02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabkumarroy02&" alt="arnabkumarroy02" /></p>
